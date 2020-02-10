@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/FormLibrary/.vs/FormLibrary/v16
+/FormLibrary/FormLibrary/obj/Debug
+/FormLibrary/FormLibrary/bin/Debug
+/WindowsFormsApp1
